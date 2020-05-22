@@ -4,6 +4,6 @@ public Class CreatingAccount {
         Account acc = new Account();
         acc.Name = name;
         return acc;
-        //method end here with implementation 
+        ///////method end here with implementation////// 
     }
 }
