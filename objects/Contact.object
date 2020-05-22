@@ -6,7 +6,7 @@
         <label>Contact information</label>
         <length>250</length>
         <required>false</required>
-        <description>test</description>
+        <description>testt111</description>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
         <unique>false</unique>
