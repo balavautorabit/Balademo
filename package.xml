@@ -33,6 +33,7 @@
         <members>Upload_Process_EM</members>
         <members>Upload_controller_EM</members>
         <members>Upload_controller_EMTest</members>
+        <members>balusha</members>
         <name>ApexClass</name>
     </types>
     <types>
