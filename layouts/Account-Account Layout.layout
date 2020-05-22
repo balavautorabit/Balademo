@@ -41,10 +41,6 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Related_revenue__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
                 <field>Accountinfo__c</field>
             </layoutItems>
             <layoutItems>
@@ -54,6 +50,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Market_value__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Account_Rate__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

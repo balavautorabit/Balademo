@@ -1,3 +1,5 @@
+///////This class is used creates the account based on the lead status //////
+
 public Class CreatingAccount {
  //method implementation here
     public Account createAccount(String name) { //method to create account
