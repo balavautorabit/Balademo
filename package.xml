@@ -12,6 +12,7 @@
         <name>ApexPage</name>
     </types>
     <types>
+        <members>Account.Account_Rate__c</members>
         <members>Account.Market_value__c</members>
         <name>CustomField</name>
     </types>
