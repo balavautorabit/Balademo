@@ -24,6 +24,7 @@
         <members>DataManager_controller</members>
         <members>DataManager_controllerTest</members>
         <members>LeadConvertValidationTest</members>
+        <members>PremiumAccount</members>
         <members>SecureApexRest</members>
         <members>ServiceWaveConfigurationModifier</members>
         <members>UploadEMUserNotFoundException</members>
