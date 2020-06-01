@@ -1295,6 +1295,7 @@
         <members>SolutionManager</members>
         <members>Standard</members>
         <members>StandardAul</members>
+        <members>Super Administrator</members>
         <members>Work%2Ecom Only User</members>
         <name>Profile</name>
     </types>
