@@ -835,6 +835,7 @@
         <members>Product2.StockKeepingUnit</members>
         <members>ProductConsumptionSchedule.ConsumptionScheduleId</members>
         <members>ProductConsumptionSchedule.ProductId</members>
+        <members>Project_Details__c.Project_Cost__c</members>
         <members>QuickText.Category</members>
         <members>QuickText.Channel</members>
         <members>QuickText.Message</members>
