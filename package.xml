@@ -836,6 +836,7 @@
         <members>ProductConsumptionSchedule.ConsumptionScheduleId</members>
         <members>ProductConsumptionSchedule.ProductId</members>
         <members>Project_Details__c.Project_Cost__c</members>
+        <members>Project_Details__c.Project_Number__c</members>
         <members>QuickText.Category</members>
         <members>QuickText.Channel</members>
         <members>QuickText.Message</members>
@@ -1001,6 +1002,7 @@
         <members>PricebookEntry</members>
         <members>Product2</members>
         <members>ProductConsumptionSchedule</members>
+        <members>Project_Details__c</members>
         <members>PromptAction</members>
         <members>QuickText</members>
         <members>QuickTextUsage</members>
@@ -1228,6 +1230,7 @@
         <members>Order.AllOrders</members>
         <members>PartyConsent.All_PartyConsents</members>
         <members>Product2.AllProducts</members>
+        <members>Project_Details__c.All</members>
         <members>Scorecard.AllScorecards</members>
         <members>Scorecard.MyScorecards</members>
         <members>SocialPersona.AllSocialPersonas</members>
