@@ -2,10 +2,16 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>48.0</version>
     <types>
+        <members>BatchLeadConvert</members>
         <members>CreateAccountTest</members>
         <members>CreatingAccount</members>
+        <members>PremiumAccount</members>
         <members>balusha</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>colorTest</members>
+        <name>ApexPage</name>
     </types>
     <types>
         <members>AppSwitcher</members>
@@ -284,9 +290,9 @@
         <members>Contact.AccountId</members>
         <members>Contact.AssistantName</members>
         <members>Contact.AssistantPhone</members>
-        <members>Contact.AutorabitExtId__c</members>
         <members>Contact.Birthdate</members>
         <members>Contact.CleanStatus</members>
+        <members>Contact.Contact_information__c</members>
         <members>Contact.Department</members>
         <members>Contact.Description</members>
         <members>Contact.DoNotCall</members>
@@ -310,6 +316,7 @@
         <members>Contact.OwnerId</members>
         <members>Contact.Phone</members>
         <members>Contact.ReportsToId</members>
+        <members>Contact.Secret_Key__c</members>
         <members>Contact.Title</members>
         <members>ContactPointConsent.CaptureContactPointType</members>
         <members>ContactPointConsent.CaptureDate</members>
@@ -746,6 +753,7 @@
         <members>ProductConsumptionSchedule.ConsumptionScheduleId</members>
         <members>ProductConsumptionSchedule.ProductId</members>
         <members>Project_Details__c.Project_Cost__c</members>
+        <members>Project_Details__c.Project_Number__c</members>
         <members>QuickText.Category</members>
         <members>QuickText.Channel</members>
         <members>QuickText.Message</members>
@@ -903,6 +911,7 @@
         <members>PricebookEntry</members>
         <members>Product2</members>
         <members>ProductConsumptionSchedule</members>
+        <members>Project_Details__c</members>
         <members>PromptAction</members>
         <members>QuickText</members>
         <members>QuickTextUsage</members>
@@ -1086,6 +1095,7 @@
         <members>Order.AllOrders</members>
         <members>PartyConsent.All_PartyConsents</members>
         <members>Product2.AllProducts</members>
+        <members>Project_Details__c.All</members>
         <members>Recommendation.All_Recommendations</members>
         <members>Scorecard.AllScorecards</members>
         <members>Scorecard.MyScorecards</members>
