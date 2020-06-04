@@ -155,7 +155,7 @@
     <fields>
         <fullName>Project_Cost__c</fullName>
         <businessStatus>Active</businessStatus>
-        <description>Cost of the Project//june4changes</description>
+        <description>Cost of the Project//june4changestest</description>
         <externalId>false</externalId>
         <label>Project Cost</label>
         <precision>18</precision>
