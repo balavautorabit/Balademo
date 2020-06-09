@@ -42,6 +42,7 @@
         <name>ApexComponent</name>
     </types>
     <types>
+        <members>ABCsamplepage</members>
         <members>DataManager</members>
         <members>EMDatasetUpload</members>
         <members>Manager_Overview</members>
