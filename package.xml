@@ -4,6 +4,7 @@
     <types>
         <members>BatchLeadConvert</members>
         <members>BatchLeadConvertTest</members>
+        <members>ChangePasswordController</members>
         <members>CreateAccountTest</members>
         <members>CreatingAccount</members>
         <members>DataManager_Activity</members>
