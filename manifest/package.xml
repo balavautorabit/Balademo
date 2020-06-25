@@ -11,8 +11,14 @@
         <name>ApexPage</name>
     </types>
     <types>
+        <members>Account.AccountSource</members>
         <members>Account.Premium_Account__c</members>
+        <members>Account.Rating</members>
         <members>Account.anthemtestAcc__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>Account.Anthemtest1</members>
+        <name>RecordType</name>
     </types>
 </Package>
