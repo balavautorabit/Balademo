@@ -29,6 +29,10 @@
             <fullName>Seminar - Internal</fullName>
             <default>false</default>
         </values>
+        <values>
+            <fullName>Web</fullName>
+            <default>false</default>
+        </values>
     </picklistValues>
     <picklistValues>
         <picklist>Active__c</picklist>
