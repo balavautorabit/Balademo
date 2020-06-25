@@ -29,4 +29,8 @@
         <members>Account.Anthemtest1</members>
         <name>RecordType</name>
     </types>
+    <types>
+        <members>AccountRating</members>
+        <name>StandardValueSet</name>
+    </types>
 </Package>
