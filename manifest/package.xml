@@ -23,7 +23,9 @@
         <members>Account.Type</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Account.anthemtestAcc__c</members>
+        <members>Project_Details__c.Project_Cost__c</members>
         <members>Project_Details__c.Project_Health__c</members>
+        <members>Project_Details__c.Project_Number__c</members>
         <members>Project_Details__c.Project_Stage__c</members>
         <name>CustomField</name>
     </types>
