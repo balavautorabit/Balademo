@@ -30,6 +30,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>BalavtestProfile</members>
         <members>Custom%3A Sales Profile</members>
         <name>Profile</name>
     </types>
