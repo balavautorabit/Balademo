@@ -838,7 +838,9 @@
         <members>ProductConsumptionSchedule.ConsumptionScheduleId</members>
         <members>ProductConsumptionSchedule.ProductId</members>
         <members>Project_Details__c.Project_Cost__c</members>
+        <members>Project_Details__c.Project_Health__c</members>
         <members>Project_Details__c.Project_Number__c</members>
+        <members>Project_Details__c.Project_Stage__c</members>
         <members>QuickText.Category</members>
         <members>QuickText.Channel</members>
         <members>QuickText.Message</members>
@@ -1339,6 +1341,9 @@
     <types>
         <members>Idea.InternalIdeasIdeaRecordType</members>
         <members>Opportunity.Record_Type</members>
+        <members>Project_Details__c.Civil_Project</members>
+        <members>Project_Details__c.Hardware_Project</members>
+        <members>Project_Details__c.Software_Project</members>
         <name>RecordType</name>
     </types>
     <types>
