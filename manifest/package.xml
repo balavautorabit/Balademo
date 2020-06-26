@@ -23,10 +23,15 @@
         <members>Account.Type</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Account.anthemtestAcc__c</members>
+        <members>Project_Details__c.Project_Health__c</members>
+        <members>Project_Details__c.Project_Stage__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Account.Anthemtest1</members>
+        <members>Project_Details__c.Civil_Project</members>
+        <members>Project_Details__c.Hardware_Project</members>
+        <members>Project_Details__c.Software_Project</members>
         <name>RecordType</name>
     </types>
     <types>
