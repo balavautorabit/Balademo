@@ -30,6 +30,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Project_Details__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
         <members>BalavtestProfile</members>
         <members>Custom%3A Sales Profile</members>
         <name>Profile</name>
