@@ -66,6 +66,10 @@
         <name>BusinessProcess</name>
     </types>
     <types>
+        <members>Internal Zone</members>
+        <name>Community</name>
+    </types>
+    <types>
         <members>Trailhead_Data_Manager</members>
         <members>standard__AppLauncher</members>
         <members>standard__Chatter</members>
