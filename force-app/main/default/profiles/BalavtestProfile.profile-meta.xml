@@ -6,15 +6,6 @@
         <field>Account.AccountRange__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.Active__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <tabVisibilities>
-        <tab>Project_Details__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
