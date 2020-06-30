@@ -1088,4 +1088,12 @@
         <members>Opportunity.DeliveryStatus</members>
         <name>WebLink</name>
     </types>
+    <types>
+        <members>Case.your_case_closed</members>
+        <name>WorkflowAlert</name>
+    </types>
+    <types>
+        <members>Case.Case update</members>
+        <name>WorkflowRule</name>
+    </types>
 </Package>
