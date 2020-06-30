@@ -88,6 +88,7 @@
     </types>
     <types>
         <members>Account.AccountNumber</members>
+        <members>Account.AccountRange__c</members>
         <members>Account.AccountSource</members>
         <members>Account.Account_Rate__c</members>
         <members>Account.Accountinfo__c</members>
