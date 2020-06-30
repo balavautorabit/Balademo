@@ -1122,6 +1122,10 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>myComponent</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <types>
         <members>Account.AllAccounts</members>
         <members>Account.MyAccounts</members>
         <members>Account.NewLastWeek</members>
@@ -1212,6 +1216,15 @@
         <members>favourate__c.All</members>
         <members>manager__c.All</members>
         <name>ListView</name>
+    </types>
+    <types>
+        <members>Milestones</members>
+        <name>PathAssistant</name>
+    </types>
+    <types>
+        <members>Case_Read_Only</members>
+        <members>Einstein_Discovery_Manager</members>
+        <name>PermissionSet</name>
     </types>
     <types>
         <members>BalavtestProfile</members>
