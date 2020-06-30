@@ -40,6 +40,7 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>MyControllerVFpage</members>
         <members>colorTest</members>
         <name>ApexPage</name>
     </types>
@@ -1019,6 +1020,7 @@
         <members>Property__c</members>
         <members>QuickText</members>
         <members>QuickTextUsage</members>
+        <members>Rankings__c</members>
         <members>Recommendation</members>
         <members>RecordAction</members>
         <members>RecordMergeHistory</members>
@@ -1200,6 +1202,7 @@
         <members>Product2.AllProducts</members>
         <members>Project_Details__c.All</members>
         <members>Property__c.All</members>
+        <members>Rankings__c.All</members>
         <members>Scorecard.AllScorecards</members>
         <members>Scorecard.MyScorecards</members>
         <members>SocialPersona.AllSocialPersonas</members>
