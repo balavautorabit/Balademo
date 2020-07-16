@@ -25,6 +25,7 @@
         <members>DataManager_controller</members>
         <members>DataManager_controllerTest</members>
         <members>LeadConvertValidationTest</members>
+        <members>MyController</members>
         <members>PremiumAccount</members>
         <members>SecureApexRest</members>
         <members>ServiceWaveConfigurationModifier</members>
@@ -35,6 +36,7 @@
         <members>Upload_Process_EM</members>
         <members>Upload_controller_EM</members>
         <members>Upload_controller_EMTest</members>
+        <members>balavController</members>
         <members>balusha</members>
         <name>ApexClass</name>
     </types>
