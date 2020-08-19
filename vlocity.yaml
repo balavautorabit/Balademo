@@ -1,0 +1,8 @@
+projectPath: ./autorabit_alldefault_vlocity_build
+manifest:
+- CalculationMatrix/IndividualBaseRates
+- CalculationMatrixVersion/IndividualBaseRates V1
+- OmniScript/Applicant_Details_English
+maxDepth: -1
+autoUpdateSettings: true
+separateMatrixVersions: true
