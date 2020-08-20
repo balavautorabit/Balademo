@@ -3,6 +3,7 @@ manifest:
 - CalculationMatrix/IndividualBaseRates
 - CalculationMatrixVersion/IndividualBaseRates V1
 - OmniScript/Applicant_Details_English
+- OmniScript/Census_Upload_English
 maxDepth: 0
 autoUpdateSettings: true
 separateMatrixVersions: true
