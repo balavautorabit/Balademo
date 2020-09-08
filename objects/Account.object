@@ -249,7 +249,7 @@
     <fields>
         <fullName>Account_Rate__c</fullName>
         <externalId>false</externalId>
-        <label>Account Rate</label>
+        <label>Acc Rate</label>
         <precision>18</precision>
         <required>false</required>
         <scale>0</scale>
@@ -396,9 +396,9 @@
     <fields>
         <fullName>NumberofLocations__c</fullName>
         <externalId>false</externalId>
-        <label>Number of Locations</label>
+        <label>No. of Locations</label>
         <precision>3</precision>
-        <required>false</required>
+        <required>true</required>
         <scale>0</scale>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Number</type>

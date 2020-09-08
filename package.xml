@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>48.0</version>
+    <version>49.0</version>
     <types>
         <members>Milestones</members>
         <name>AnimationRule</name>
@@ -216,6 +216,8 @@
         <members>AssetRelationship.RelatedAssetId</members>
         <members>AssetRelationship.RelationshipType</members>
         <members>AssetRelationship.ToDate</members>
+        <members>Assistant_Manager__c.ID_Number__c</members>
+        <members>Assistant_Manager__c.Phone_Number__c</members>
         <members>Assistant__c.Relatedmanager__c</members>
         <members>AuthorizationForm.DefaultAuthFormTextId</members>
         <members>AuthorizationForm.EffectiveFromDate</members>
@@ -973,6 +975,7 @@
         <members>AccountContactRole</members>
         <members>AcquiredAccount__c</members>
         <members>Activity</members>
+        <members>Ass_Manager__c</members>
         <members>Asset</members>
         <members>AssetRelationship</members>
         <members>AssistantProgress</members>
