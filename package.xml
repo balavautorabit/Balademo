@@ -979,6 +979,7 @@
         <members>Asset</members>
         <members>AssetRelationship</members>
         <members>AssistantProgress</members>
+        <members>Assistant_Manager__c</members>
         <members>Assistant__c</members>
         <members>AuthorizationForm</members>
         <members>AuthorizationFormConsent</members>
@@ -1275,6 +1276,7 @@
         <members>Activity.TodaysTasks</members>
         <members>Activity.UpcomingEvents</members>
         <members>Asset.AllAssets</members>
+        <members>Assistant_Manager__c.All</members>
         <members>Assistant__c.All</members>
         <members>AuthorizationForm.All_AuthorizationForms</members>
         <members>AuthorizationFormConsent.All_AuthorizationFormConsents</members>
