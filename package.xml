@@ -128,6 +128,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>ABC2__c.test1__c</members>
         <members>ABC__c.test1__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountRange__c</members>
@@ -971,6 +972,7 @@
         <name>CustomLabel</name>
     </types>
     <types>
+        <members>ABC2__c</members>
         <members>ABC__c</members>
         <members>Account</members>
         <members>AccountCleanInfo</members>
