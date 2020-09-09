@@ -30,6 +30,11 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>ABC__c.test1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.AccountRange__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -277,6 +282,15 @@
     <layoutAssignments>
         <layout>fcaobject2__c-fcaobject2 Layout</layout>
     </layoutAssignments>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>ABC__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
