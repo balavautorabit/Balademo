@@ -970,6 +970,7 @@
         <name>CustomLabel</name>
     </types>
     <types>
+        <members>ABC__c</members>
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
