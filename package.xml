@@ -324,6 +324,8 @@
         <members>Contact.AssistantPhone</members>
         <members>Contact.Birthdate</members>
         <members>Contact.CleanStatus</members>
+        <members>Contact.Contact_Info__c</members>
+        <members>Contact.Contact_information__c</members>
         <members>Contact.Department</members>
         <members>Contact.Description</members>
         <members>Contact.DoNotCall</members>
