@@ -2,7 +2,7 @@
 
 public Class CreatingAccount {
  //method implementation here
-   ///changes aug17 //////////////
+  
 
  
     public Account createAccount(String name) { //method to create account
@@ -10,11 +10,10 @@ public Class CreatingAccount {
         acc.Name = name;
         return acc;
         ///////method end here with implementation////// 
-             ///changes aug17 //////////////
+            
              
-             ///changes September 8th //////////////
-            ///Test ////////////// 
-            ///sep9 ////////////// 
+             ///changes october 5th //////////////
+         
 
         
     }

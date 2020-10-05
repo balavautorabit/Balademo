@@ -62,20 +62,26 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>ABC2__c.test1__c</members>
+        <members>ABC__c.test1__c</members>
         <members>Account.AccountNumber</members>
+        <members>Account.AccountRange__c</members>
         <members>Account.AccountSource</members>
+        <members>Account.Account_Rate__c</members>
+        <members>Account.Accountinfo__c</members>
         <members>Account.Active__c</members>
         <members>Account.AnnualRevenue</members>
-        <members>Account.AutorabitExtId__c</members>
         <members>Account.BillingAddress</members>
         <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.DandbCompanyId</members>
         <members>Account.Description</members>
         <members>Account.DunsNumber</members>
+        <members>Account.Email__c</members>
         <members>Account.Fax</members>
         <members>Account.Industry</members>
         <members>Account.Jigsaw</members>
+        <members>Account.Market_value__c</members>
         <members>Account.NaicsCode</members>
         <members>Account.NaicsDesc</members>
         <members>Account.Name</members>
@@ -85,10 +91,13 @@
         <members>Account.Ownership</members>
         <members>Account.ParentId</members>
         <members>Account.Phone</members>
+        <members>Account.Premium_Account__c</members>
         <members>Account.Rating</members>
+        <members>Account.Related_revenue__c</members>
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
+        <members>Account.Segment__c</members>
         <members>Account.ShippingAddress</members>
         <members>Account.Sic</members>
         <members>Account.SicDesc</members>
@@ -99,6 +108,7 @@
         <members>Account.UpsellOpportunity__c</members>
         <members>Account.Website</members>
         <members>Account.YearStarted</members>
+        <members>Account.anthemtestAcc__c</members>
         <members>AccountCleanInfo.Industry</members>
         <members>AccountCleanInfo.Ownership</members>
         <members>AccountContactRole.Role</members>
@@ -132,6 +142,8 @@
         <members>AssetRelationship.RelatedAssetId</members>
         <members>AssetRelationship.RelationshipType</members>
         <members>AssetRelationship.ToDate</members>
+        <members>Assistant_Manager__c.ID_Number__c</members>
+        <members>Assistant_Manager__c.Phone_Number__c</members>
         <members>AuthorizationForm.DefaultAuthFormTextId</members>
         <members>AuthorizationForm.EffectiveFromDate</members>
         <members>AuthorizationForm.EffectiveToDate</members>
@@ -841,13 +853,17 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>ABC2__c</members>
+        <members>ABC__c</members>
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
         <members>Activity</members>
+        <members>Ass_Manager__c</members>
         <members>Asset</members>
         <members>AssetRelationship</members>
         <members>AssistantProgress</members>
+        <members>Assistant_Manager__c</members>
         <members>AuthorizationForm</members>
         <members>AuthorizationFormConsent</members>
         <members>AuthorizationFormDataUse</members>
@@ -1041,6 +1057,7 @@
         <members>Activity.TodaysTasks</members>
         <members>Activity.UpcomingEvents</members>
         <members>Asset.AllAssets</members>
+        <members>Assistant_Manager__c.All</members>
         <members>AuthorizationForm.All_AuthorizationForms</members>
         <members>AuthorizationFormConsent.All_AuthorizationFormConsents</members>
         <members>AuthorizationFormDataUse.All_AuthorizationFormDataUses</members>
@@ -1128,6 +1145,7 @@
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
         <members>Authenticated Website</members>
+        <members>BalavtestProfile</members>
         <members>Chatter External User</members>
         <members>Chatter Free User</members>
         <members>Chatter Moderator User</members>
@@ -1191,6 +1209,10 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>Account.Anthemtest1</members>
+        <members>Account.Anthemtest2</members>
+        <members>Account.Anthemtest3</members>
+        <members>Account.Anthemtest4</members>
         <members>Idea.InternalIdeasIdeaRecordType</members>
         <name>RecordType</name>
     </types>
@@ -1436,6 +1458,10 @@
         <members>Solution</members>
         <members>Task</members>
         <name>TopicsForObjects</name>
+    </types>
+    <types>
+        <members>Account.Industry_should_not_null</members>
+        <name>ValidationRule</name>
     </types>
     <types>
         <members>Account.Billing</members>
