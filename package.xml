@@ -87,6 +87,7 @@
         <members>Account.Name</members>
         <members>Account.NumberOfEmployees</members>
         <members>Account.NumberofLocations__c</members>
+        <members>Account.OperatingHoursId</members>
         <members>Account.OwnerId</members>
         <members>Account.Ownership</members>
         <members>Account.ParentId</members>
