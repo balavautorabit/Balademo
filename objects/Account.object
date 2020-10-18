@@ -227,6 +227,7 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
+    <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>AccountNumber</fullName>
         <trackFeedHistory>false</trackFeedHistory>
@@ -269,7 +270,6 @@
     </fields>
     <fields>
         <fullName>Active__c</fullName>
-        <description>wich one is an active need to choose</description>
         <externalId>false</externalId>
         <label>Active</label>
         <required>false</required>
@@ -396,17 +396,21 @@
     <fields>
         <fullName>NumberofLocations__c</fullName>
         <externalId>false</externalId>
-        <label>No of Locations</label>
+        <label>Number of Locations</label>
         <precision>3</precision>
-        <required>true</required>
+        <required>false</required>
         <scale>0</scale>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Number</type>
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>OperatingHoursId</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>OwnerId</fullName>
-        <inlineHelpText>DEPRECIATED!! User Owner__c</inlineHelpText>
         <trackFeedHistory>true</trackFeedHistory>
         <type>Lookup</type>
     </fields>
