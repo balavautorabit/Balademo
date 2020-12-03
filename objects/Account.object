@@ -590,6 +590,7 @@
     </fields>
     <fields>
         <fullName>testfield__c</fullName>
+        <description>testing field to define the values</description>
         <externalId>false</externalId>
         <label>testfield</label>
         <length>250</length>
