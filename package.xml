@@ -176,6 +176,7 @@
         <members>Account.Website</members>
         <members>Account.YearStarted</members>
         <members>Account.anthemtestAcc__c</members>
+        <members>Account.testfield__c</members>
         <members>AccountCleanInfo.Industry</members>
         <members>AccountCleanInfo.Ownership</members>
         <members>AccountContactRole.Role</members>
