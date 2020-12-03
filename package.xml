@@ -30,6 +30,7 @@
         <members>DataManager_controllerTest</members>
         <members>LeadConvertValidationTest</members>
         <members>MyController</members>
+        <members>MySampleApexClass</members>
         <members>PremiumAccount</members>
         <members>SecureApexRest</members>
         <members>ServiceWaveConfigurationModifier</members>
