@@ -4,6 +4,11 @@ manifest:
 - CalculationMatrixVersion/IndividualBaseRates V1
 - OmniScript/Applicant_Details_English
 - OmniScript/Census_Upload_English
+- AttributeCategory/a6fb638f-98c6-04cf-37ac-b00a8dad100b
+- AttributeCategory/6a86fb1f-19dd-dca7-b577-76ecb88e2b80
+- AttributeCategory/57cb1fed-921d-4315-a01e-515169a82733
+- AttributeCategory/5f280dfc-d3bf-f0a8-c213-d9e298ab6d9f
 maxDepth: 0
 autoUpdateSettings: true
 separateMatrixVersions: true
+CompileOnBuild: false

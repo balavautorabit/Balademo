@@ -1,0 +1,36 @@
+[
+    {
+        "%vlocity_namespace%__ActiveFlg__c": true,
+        "%vlocity_namespace%__AttributeCategoryCode__c": "5f280dfc-d3bf-f0a8-c213-d9e298ab6d9f",
+        "%vlocity_namespace%__AttributeCategoryId__c": {
+            "%vlocity_namespace%__Code__c": "5f280dfc-d3bf-f0a8-c213-d9e298ab6d9f",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/5f280dfc-d3bf-f0a8-c213-d9e298ab6d9f",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
+        },
+        "%vlocity_namespace%__AttributeCategoryName__c": "07408c-d197e0-112e32-91b87c-bd9443d90",
+        "%vlocity_namespace%__Code__c": "d53342ca-14c5-1207-d22c-8d0f4b9102dc",
+        "%vlocity_namespace%__Configurable__c": true,
+        "%vlocity_namespace%__CustomConfigUiTemplate__c": "",
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DisplaySequence__c": 1,
+        "%vlocity_namespace%__EffectiveFromDate__c": "",
+        "%vlocity_namespace%__EffectiveUntilDate__c": "",
+        "%vlocity_namespace%__Filterable__c": true,
+        "%vlocity_namespace%__GlobalKey__c": "32689462-28e6-6f99-9af9-dfaac71b0054",
+        "%vlocity_namespace%__HelpText__c": "",
+        "%vlocity_namespace%__IsCloneable__c": true,
+        "%vlocity_namespace%__IsPrivate__c": false,
+        "%vlocity_namespace%__OwnerId__c": "",
+        "%vlocity_namespace%__PicklistId__c": "",
+        "%vlocity_namespace%__UniqueNameField__c": "",
+        "%vlocity_namespace%__ValueType__c": "Text",
+        "%vlocity_namespace%__Value__c": "",
+        "%vlocity_namespace%__isDefaultHidden__c": false,
+        "IsKey__c": false,
+        "Name": "982749-899923-3e01d9-9a354e-47de44e67",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__Attribute__c/d53342ca-14c5-1207-d22c-8d0f4b9102dc"
+    }
+]

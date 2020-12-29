@@ -1,0 +1,36 @@
+[
+    {
+        "%vlocity_namespace%__ActiveFlg__c": true,
+        "%vlocity_namespace%__AttributeCategoryCode__c": "a6fb638f-98c6-04cf-37ac-b00a8dad100b",
+        "%vlocity_namespace%__AttributeCategoryId__c": {
+            "%vlocity_namespace%__Code__c": "a6fb638f-98c6-04cf-37ac-b00a8dad100b",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/a6fb638f-98c6-04cf-37ac-b00a8dad100b",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
+        },
+        "%vlocity_namespace%__AttributeCategoryName__c": "02e40e-170ec3-639b20-d18c12-b19e81450",
+        "%vlocity_namespace%__Code__c": "6f1add0b-47e5-6a01-bf9b-1ceb62e44a19",
+        "%vlocity_namespace%__Configurable__c": true,
+        "%vlocity_namespace%__CustomConfigUiTemplate__c": "",
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DisplaySequence__c": 1,
+        "%vlocity_namespace%__EffectiveFromDate__c": "",
+        "%vlocity_namespace%__EffectiveUntilDate__c": "",
+        "%vlocity_namespace%__Filterable__c": true,
+        "%vlocity_namespace%__GlobalKey__c": "4406272f-40b2-6146-d5bf-b990bfa682d3",
+        "%vlocity_namespace%__HelpText__c": "",
+        "%vlocity_namespace%__IsCloneable__c": true,
+        "%vlocity_namespace%__IsPrivate__c": false,
+        "%vlocity_namespace%__OwnerId__c": "",
+        "%vlocity_namespace%__PicklistId__c": "",
+        "%vlocity_namespace%__UniqueNameField__c": "",
+        "%vlocity_namespace%__ValueType__c": "Text",
+        "%vlocity_namespace%__Value__c": "",
+        "%vlocity_namespace%__isDefaultHidden__c": false,
+        "IsKey__c": false,
+        "Name": "128c3c-4b48f6-843881-db2b25-b529f7ade",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__Attribute__c/6f1add0b-47e5-6a01-bf9b-1ceb62e44a19"
+    }
+]

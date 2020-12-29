@@ -1,0 +1,36 @@
+[
+    {
+        "%vlocity_namespace%__ActiveFlg__c": true,
+        "%vlocity_namespace%__AttributeCategoryCode__c": "57cb1fed-921d-4315-a01e-515169a82733",
+        "%vlocity_namespace%__AttributeCategoryId__c": {
+            "%vlocity_namespace%__Code__c": "57cb1fed-921d-4315-a01e-515169a82733",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__AttributeCategory__c/57cb1fed-921d-4315-a01e-515169a82733",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeCategory__c"
+        },
+        "%vlocity_namespace%__AttributeCategoryName__c": "060b0d-bb00ec-0921eb-d85b47-9eb1f86c0",
+        "%vlocity_namespace%__Code__c": "66ecd3d1-108d-fab4-28cb-c2f9bbb7d899",
+        "%vlocity_namespace%__Configurable__c": true,
+        "%vlocity_namespace%__CustomConfigUiTemplate__c": "",
+        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__DisplaySequence__c": 1,
+        "%vlocity_namespace%__EffectiveFromDate__c": "",
+        "%vlocity_namespace%__EffectiveUntilDate__c": "",
+        "%vlocity_namespace%__Filterable__c": true,
+        "%vlocity_namespace%__GlobalKey__c": "bfef0fb8-7ceb-4871-9d70-9a35c9f41aef",
+        "%vlocity_namespace%__HelpText__c": "",
+        "%vlocity_namespace%__IsCloneable__c": true,
+        "%vlocity_namespace%__IsPrivate__c": false,
+        "%vlocity_namespace%__OwnerId__c": "",
+        "%vlocity_namespace%__PicklistId__c": "",
+        "%vlocity_namespace%__UniqueNameField__c": "",
+        "%vlocity_namespace%__ValueType__c": "Text",
+        "%vlocity_namespace%__Value__c": "",
+        "%vlocity_namespace%__isDefaultHidden__c": false,
+        "IsKey__c": false,
+        "Name": "e6c015-f61448-813ac2-3f0257-8e5e36e25",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__Attribute__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__Attribute__c/66ecd3d1-108d-fab4-28cb-c2f9bbb7d899"
+    }
+]
