@@ -11,6 +11,7 @@
         <members>ChangePasswordController</members>
         <members>CreateAccountTest</members>
         <members>CreatingAccount</members>
+        <members>CreatingAccountnewclass</members>
         <members>DataManager_Activity</members>
         <members>DataManager_ActivityTest</members>
         <members>DataManager_CleanUp</members>
