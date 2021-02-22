@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>48.0</version>
+    <version>49.0</version>
     <types>
         <members>Milestones</members>
         <name>AnimationRule</name>
@@ -138,6 +138,7 @@
         <members>Account.Accountinfo__c</members>
         <members>Account.Active__c</members>
         <members>Account.AnnualRevenue</members>
+        <members>Account.AutorabitExtId__c</members>
         <members>Account.BillingAddress</members>
         <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
@@ -154,11 +155,13 @@
         <members>Account.Name</members>
         <members>Account.NumberOfEmployees</members>
         <members>Account.NumberofLocations__c</members>
+        <members>Account.Onboarding_Status__c</members>
         <members>Account.OperatingHoursId</members>
         <members>Account.OwnerId</members>
         <members>Account.Ownership</members>
         <members>Account.ParentId</members>
         <members>Account.Phone</members>
+        <members>Account.PremiumAcc__c</members>
         <members>Account.Premium_Account__c</members>
         <members>Account.Rating</members>
         <members>Account.Related_revenue__c</members>
@@ -177,6 +180,9 @@
         <members>Account.Website</members>
         <members>Account.YearStarted</members>
         <members>Account.anthemtestAcc__c</members>
+        <members>Account.oct17__c</members>
+        <members>Account.testcap1__c</members>
+        <members>Account.testdelete__c</members>
         <members>Account.testfield__c</members>
         <members>AccountCleanInfo.Industry</members>
         <members>AccountCleanInfo.Ownership</members>
@@ -1837,6 +1843,7 @@
     </types>
     <types>
         <members>Account.Billing</members>
+        <members>Account.Mass_Delete_Records</members>
         <members>Campaign.ViewCampaignInfluenceReport</members>
         <members>Case.UpsellCrosssellOpportunity</members>
         <members>Opportunity.DeliveryStatus</members>
