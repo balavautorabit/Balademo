@@ -959,6 +959,8 @@
         <members>Task.Type</members>
         <members>Task.WhatId</members>
         <members>Task.WhoId</members>
+        <members>Testmarch__c.Test1__c</members>
+        <members>Testmarch__c.Test2__c</members>
         <members>User.DB_Region__c</members>
         <members>User.ManagerId</members>
         <members>UserProvisioningRequest.AppName</members>
@@ -1258,6 +1260,7 @@
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
         <members>Test54__c-Test54 Layout</members>
+        <members>Testmarch__c-Testmarch Layout</members>
         <members>User-User Layout</members>
         <members>UserAlt-User Profile Layout</members>
         <members>UserAppMenuItem-Application Layout</members>
