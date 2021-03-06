@@ -10,6 +10,8 @@
         <members>ChangePasswordController</members>
         <members>CreateAccountTest</members>
         <members>CreatingAccount</members>
+        <members>CreatingAccount1</members>
+        <members>CreatingAccount2</members>
         <members>CreatingAccountnewclass</members>
         <members>DataManager_Activity</members>
         <members>DataManager_ActivityTest</members>
