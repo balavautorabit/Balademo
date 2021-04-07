@@ -1393,6 +1393,7 @@
         <name>PathAssistant</name>
     </types>
     <types>
+        <members>AR_PermissionSetTest1</members>
         <members>Case_Read_Only</members>
         <members>Einstein_Discovery_Manager</members>
         <members>Manage_Leads</members>
@@ -1405,6 +1406,7 @@
         <name>PermissionSetGroup</name>
     </types>
     <types>
+        <members>AR Test1</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
