@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>Refer_to_Secondgroup</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Refer to Secondgroup</shortDescription>
+        <value>2</value>
+    </labels>
+    <labels>
+        <fullName>Refer_to_Third_group</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Refer to Third group</shortDescription>
+        <value>3</value>
+    </labels>
+    <labels>
+        <fullName>Refer_to_firstgroup</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Refer to firstgroup</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
         <fullName>countrycode</fullName>
         <language>en_US</language>
         <protected>true</protected>
