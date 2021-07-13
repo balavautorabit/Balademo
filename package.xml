@@ -1105,7 +1105,6 @@
         <members>UserProvisioningRequest</members>
         <members>balaOBJ2__c</members>
         <members>balaOBJ__c</members>
-        <members>balajuly13Obj1__c</members>
         <members>balajuly13Obj2__c</members>
         <members>balajuly21__c</members>
         <members>balaobject__c</members>
@@ -1375,7 +1374,6 @@
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
         <members>balaOBJ2__c-balaOBJ2 Layout</members>
         <members>balaOBJ__c-balaOBJ Layout</members>
-        <members>balajuly13Obj1__c-balajuly13Obj1 Layout</members>
         <members>balajuly13Obj2__c-balajuly13Obj2 Layout</members>
         <members>balajuly21__c-balajuly21 Layout</members>
         <members>balaobject__c-balaobject Layout</members>
