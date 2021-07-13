@@ -660,6 +660,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>testdel__c</fullName>
+        <externalId>false</externalId>
+        <label>testdel</label>
+        <length>250</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>testdelete__c</fullName>
         <externalId>false</externalId>
         <label>testdelete</label>

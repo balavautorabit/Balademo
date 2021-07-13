@@ -185,6 +185,7 @@
         <members>Account.anthemtestAcc__c</members>
         <members>Account.oct17__c</members>
         <members>Account.testcap1__c</members>
+        <members>Account.testdel__c</members>
         <members>Account.testdelete__c</members>
         <members>Account.testfield__c</members>
         <members>AccountCleanInfo.Industry</members>
