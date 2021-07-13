@@ -661,6 +661,7 @@
     </fields>
     <fields>
         <fullName>testdel__c</fullName>
+        <description>Test</description>
         <externalId>false</externalId>
         <label>testdel</label>
         <length>250</length>
